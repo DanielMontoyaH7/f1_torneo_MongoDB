@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6739611bb893f8ea7deec9d8"
+  },
+  "nombre": "Mercedes",
+  "pais": "Germany",
+  "director": "Toto Wolff",
+  "fundacion": 1954
+},
+{
+  "_id": {
+    "$oid": "67396125b893f8ea7deec9da"
+  },
+  "nombre": "Red Bull Racing",
+  "pais": "Austria",
+  "director": "Christian Horner",
+  "fundacion": 2005
+},
+{
+  "_id": {
+    "$oid": "67396131b893f8ea7deec9dc"
+  },
+  "nombre": "Ferrari",
+  "pais": "Italy",
+  "director": "Fred Vasseur",
+  "fundacion": 1929
+},
+{
+  "_id": {
+    "$oid": "6739613eb893f8ea7deec9de"
+  },
+  "nombre": "McLaren",
+  "pais": "United Kingdom",
+  "director": "Andrea Stella",
+  "fundacion": 1963
+},
+{
+  "_id": {
+    "$oid": "67396149b893f8ea7deec9e0"
+  },
+  "nombre": "Aston Martin",
+  "pais": "United Kingdom",
+  "director": "Mike Krack",
+  "fundacion": 1959
+},
+{
+  "_id": {
+    "$oid": "67396154b893f8ea7deec9e2"
+  },
+  "nombre": "Alpine",
+  "pais": "France",
+  "director": "Bruno Famin",
+  "fundacion": 2021
+},
+{
+  "_id": {
+    "$oid": "6739615db893f8ea7deec9e4"
+  },
+  "nombre": "Williams",
+  "pais": "United Kingdom",
+  "director": "James Vowles",
+  "fundacion": 1977
+},
+{
+  "_id": {
+    "$oid": "6739616ab893f8ea7deec9e6"
+  },
+  "nombre": "Haas",
+  "pais": "United States",
+  "director": "Guenther Steiner",
+  "fundacion": 2016
+},
+{
+  "_id": {
+    "$oid": "67396175b893f8ea7deec9e8"
+  },
+  "nombre": "AlphaTauri",
+  "pais": "Italy",
+  "director": "Franz Tost",
+  "fundacion": 2006
+},
+{
+  "_id": {
+    "$oid": "67396180b893f8ea7deec9ea"
+  },
+  "nombre": "Alfa Romeo",
+  "pais": "Switzerland",
+  "director": "Alessandro Alunni Bravi",
+  "fundacion": 1950
+}]

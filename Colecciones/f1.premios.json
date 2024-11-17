@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "67395e97b893f8ea7deec9c1"
+  },
+  "nombre": "Gran Premio de Baréin",
+  "ubicacion": "Sakhir, Baréin",
+  "fecha": "2024-03-03",
+  "vueltas": 57,
+  "longitud_vuelta_km": 5.412
+},
+{
+  "_id": {
+    "$oid": "67395ed0b893f8ea7deec9c4"
+  },
+  "nombre": "Gran Premio de Arabia Saudita",
+  "ubicacion": "Yeda, Arabia Saudita",
+  "fecha": "2024-03-17",
+  "vueltas": 50,
+  "longitud_vuelta_km": 6.174
+},
+{
+  "_id": {
+    "$oid": "67395ee4b893f8ea7deec9c6"
+  },
+  "nombre": "Gran Premio de Australia",
+  "ubicacion": "Melbourne, Australia",
+  "fecha": "2024-03-31",
+  "vueltas": 58,
+  "longitud_vuelta_km": 5.278
+},
+{
+  "_id": {
+    "$oid": "67395ef2b893f8ea7deec9c8"
+  },
+  "nombre": "Gran Premio de Emilia-Romaña",
+  "ubicacion": "Imola, Italia",
+  "fecha": "2024-04-21",
+  "vueltas": 63,
+  "longitud_vuelta_km": 4.909
+},
+{
+  "_id": {
+    "$oid": "67395f06b893f8ea7deec9ca"
+  },
+  "nombre": "Gran Premio de Mónaco",
+  "ubicacion": "Monte Carlo, Mónaco",
+  "fecha": "2024-05-26",
+  "vueltas": 78,
+  "longitud_vuelta_km": 3.337
+},
+{
+  "_id": {
+    "$oid": "67395f11b893f8ea7deec9cc"
+  },
+  "nombre": "Gran Premio de Canadá",
+  "ubicacion": "Montreal, Canadá",
+  "fecha": "2024-06-16",
+  "vueltas": 70,
+  "longitud_vuelta_km": 4.361
+},
+{
+  "_id": {
+    "$oid": "67395f21b893f8ea7deec9ce"
+  },
+  "nombre": "Gran Premio de Reino Unido",
+  "ubicacion": "Silverstone, Reino Unido",
+  "fecha": "2024-07-14",
+  "vueltas": 52,
+  "longitud_vuelta_km": 5.891
+},
+{
+  "_id": {
+    "$oid": "67395f2eb893f8ea7deec9d0"
+  },
+  "nombre": "Gran Premio de Bélgica",
+  "ubicacion": "Spa-Francorchamps, Bélgica",
+  "fecha": "2024-08-25",
+  "vueltas": 44,
+  "longitud_vuelta_km": 7.004
+},
+{
+  "_id": {
+    "$oid": "67395f3cb893f8ea7deec9d2"
+  },
+  "nombre": "Gran Premio de Japón",
+  "ubicacion": "Suzuka, Japón",
+  "fecha": "2024-09-29",
+  "vueltas": 53,
+  "longitud_vuelta_km": 5.807
+},
+{
+  "_id": {
+    "$oid": "67395f48b893f8ea7deec9d4"
+  },
+  "nombre": "Gran Premio de Abu Dabi",
+  "ubicacion": "Yas Marina, Emiratos Árabes Unidos",
+  "fecha": "2024-12-01",
+  "vueltas": 58,
+  "longitud_vuelta_km": 5.281
+}]
