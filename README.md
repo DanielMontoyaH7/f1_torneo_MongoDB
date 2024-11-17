@@ -9,5 +9,4 @@ Este proyecto contiene el modelo de una base de datos NoSQL en MongoDB para gest
 - Resultados
 - Tabla de posiciones
 
-## Cómo usar este proyecto
-Sigue los pasos detallados para importar las colecciones a tu base de datos MongoDB.
+
