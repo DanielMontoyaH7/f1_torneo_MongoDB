@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395bc"
+  },
+  "posicion": 1,
+  "nombre": "Max Verstappen",
+  "escuderia": "Red Bull Racing",
+  "puntos": 131,
+  "carreras_disputadas": 6,
+  "podios": 5,
+  "victorias": 3
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395bd"
+  },
+  "posicion": 2,
+  "nombre": "Charles Leclerc",
+  "escuderia": "Ferrari",
+  "puntos": 108,
+  "carreras_disputadas": 6,
+  "podios": 4,
+  "victorias": 2
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395be"
+  },
+  "posicion": 3,
+  "nombre": "Lewis Hamilton",
+  "escuderia": "Mercedes",
+  "puntos": 105,
+  "carreras_disputadas": 6,
+  "podios": 3,
+  "victorias": 1
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395bf"
+  },
+  "posicion": 4,
+  "nombre": "Fernando Alonso",
+  "escuderia": "Aston Martin",
+  "puntos": 98,
+  "carreras_disputadas": 6,
+  "podios": 3,
+  "victorias": 0
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395c0"
+  },
+  "posicion": 5,
+  "nombre": "Carlos Sainz",
+  "escuderia": "Ferrari",
+  "puntos": 86,
+  "carreras_disputadas": 6,
+  "podios": 2,
+  "victorias": 1
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395c1"
+  },
+  "posicion": 6,
+  "nombre": "Sergio Pérez",
+  "escuderia": "Red Bull Racing",
+  "puntos": 78,
+  "carreras_disputadas": 6,
+  "podios": 1,
+  "victorias": 1
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395c2"
+  },
+  "posicion": 7,
+  "nombre": "George Russell",
+  "escuderia": "Mercedes",
+  "puntos": 72,
+  "carreras_disputadas": 6,
+  "podios": 1,
+  "victorias": 0
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395c3"
+  },
+  "posicion": 8,
+  "nombre": "Lando Norris",
+  "escuderia": "McLaren",
+  "puntos": 54,
+  "carreras_disputadas": 6,
+  "podios": 0,
+  "victorias": 0
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395c4"
+  },
+  "posicion": 9,
+  "nombre": "Esteban Ocon",
+  "escuderia": "Alpine",
+  "puntos": 47,
+  "carreras_disputadas": 6,
+  "podios": 0,
+  "victorias": 0
+},
+{
+  "_id": {
+    "$oid": "6739628e533f3c5ddc6395c5"
+  },
+  "posicion": 10,
+  "nombre": "Pierre Gasly",
+  "escuderia": "Alpine",
+  "puntos": 45,
+  "carreras_disputadas": 6,
+  "podios": 0,
+  "victorias": 0
+}]

@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "673961e4533f3c5ddc6395b2"
+  },
+  "gran_premio": "Bahrain Grand Prix",
+  "fecha": "2024-03-03",
+  "circuito": "Bahrain International Circuit",
+  "resultados": [
+    {
+      "posicion": 1,
+      "piloto": "Max Verstappen",
+      "escuderia": "Red Bull Racing",
+      "puntos": 25
+    },
+    {
+      "posicion": 2,
+      "piloto": "Charles Leclerc",
+      "escuderia": "Ferrari",
+      "puntos": 18
+    },
+    {
+      "posicion": 3,
+      "piloto": "Fernando Alonso",
+      "escuderia": "Aston Martin",
+      "puntos": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673961e4533f3c5ddc6395b3"
+  },
+  "gran_premio": "Saudi Arabian Grand Prix",
+  "fecha": "2024-03-17",
+  "circuito": "Jeddah Corniche Circuit",
+  "resultados": [
+    {
+      "posicion": 1,
+      "piloto": "Max Verstappen",
+      "escuderia": "Red Bull Racing",
+      "puntos": 25
+    },
+    {
+      "posicion": 2,
+      "piloto": "Lewis Hamilton",
+      "escuderia": "Mercedes",
+      "puntos": 18
+    },
+    {
+      "posicion": 3,
+      "piloto": "George Russell",
+      "escuderia": "Mercedes",
+      "puntos": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673961e4533f3c5ddc6395b4"
+  },
+  "gran_premio": "Australian Grand Prix",
+  "fecha": "2024-03-31",
+  "circuito": "Albert Park Circuit",
+  "resultados": [
+    {
+      "posicion": 1,
+      "piloto": "Charles Leclerc",
+      "escuderia": "Ferrari",
+      "puntos": 25
+    },
+    {
+      "posicion": 2,
+      "piloto": "Max Verstappen",
+      "escuderia": "Red Bull Racing",
+      "puntos": 18
+    },
+    {
+      "posicion": 3,
+      "piloto": "Fernando Alonso",
+      "escuderia": "Aston Martin",
+      "puntos": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673961e4533f3c5ddc6395b5"
+  },
+  "gran_premio": "Azerbaijan Grand Prix",
+  "fecha": "2024-04-28",
+  "circuito": "Baku City Circuit",
+  "resultados": [
+    {
+      "posicion": 1,
+      "piloto": "Sergio Pérez",
+      "escuderia": "Red Bull Racing",
+      "puntos": 25
+    },
+    {
+      "posicion": 2,
+      "piloto": "Lewis Hamilton",
+      "escuderia": "Mercedes",
+      "puntos": 18
+    },
+    {
+      "posicion": 3,
+      "piloto": "Carlos Sainz",
+      "escuderia": "Ferrari",
+      "puntos": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673961e4533f3c5ddc6395b6"
+  },
+  "gran_premio": "Miami Grand Prix",
+  "fecha": "2024-05-05",
+  "circuito": "Miami International Autodrome",
+  "resultados": [
+    {
+      "posicion": 1,
+      "piloto": "Max Verstappen",
+      "escuderia": "Red Bull Racing",
+      "puntos": 25
+    },
+    {
+      "posicion": 2,
+      "piloto": "Fernando Alonso",
+      "escuderia": "Aston Martin",
+      "puntos": 18
+    },
+    {
+      "posicion": 3,
+      "piloto": "George Russell",
+      "escuderia": "Mercedes",
+      "puntos": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673961e4533f3c5ddc6395b7"
+  },
+  "gran_premio": "Monaco Grand Prix",
+  "fecha": "2024-05-26",
+  "circuito": "Circuit de Monaco",
+  "resultados": [
+    {
+      "posicion": 1,
+      "piloto": "Charles Leclerc",
+      "escuderia": "Ferrari",
+      "puntos": 25
+    },
+    {
+      "posicion": 2,
+      "piloto": "Carlos Sainz",
+      "escuderia": "Ferrari",
+      "puntos": 18
+    },
+    {
+      "posicion": 3,
+      "piloto": "Max Verstappen",
+      "escuderia": "Red Bull Racing",
+      "puntos": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673961e4533f3c5ddc6395b8"
+  },
+  "gran_premio": "Spanish Grand Prix",
+  "fecha": "2024-06-09",
+  "circuito": "Circuit de Barcelona-Catalunya",
+  "resultados": [
+    {
+      "posicion": 1,
+      "piloto": "Carlos Sainz",
+      "escuderia": "Ferrari",
+      "puntos": 25
+    },
+    {
+      "posicion": 2,
+      "piloto": "Max Verstappen",
+      "escuderia": "Red Bull Racing",
+      "puntos": 18
+    },
+    {
+      "posicion": 3,
+      "piloto": "Fernando Alonso",
+      "escuderia": "Aston Martin",
+      "puntos": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673961e4533f3c5ddc6395b9"
+  },
+  "gran_premio": "Canadian Grand Prix",
+  "fecha": "2024-06-16",
+  "circuito": "Circuit Gilles Villeneuve",
+  "resultados": [
+    {
+      "posicion": 1,
+      "piloto": "Lewis Hamilton",
+      "escuderia": "Mercedes",
+      "puntos": 25
+    },
+    {
+      "posicion": 2,
+      "piloto": "Max Verstappen",
+      "escuderia": "Red Bull Racing",
+      "puntos": 18
+    },
+    {
+      "posicion": 3,
+      "piloto": "Charles Leclerc",
+      "escuderia": "Ferrari",
+      "puntos": 15
+    }
+  ]
+}]

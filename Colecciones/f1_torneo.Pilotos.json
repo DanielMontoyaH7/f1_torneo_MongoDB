@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67395695533f3c5ddc639579"
+  },
+  "nombre": "Lewis Hamilton",
+  "escuderia": "Mercedes",
+  "nacionalidad": "United Kingdom",
+  "puntos": 4000
+},
+{
+  "_id": {
+    "$oid": "67395bb3533f3c5ddc639583"
+  },
+  "nombre": "Max Verstappen",
+  "escuderia": "Red Bull Racing",
+  "nacionalidad": "Netherlands",
+  "puntos": 2500
+},
+{
+  "_id": {
+    "$oid": "67395bd2533f3c5ddc639585"
+  },
+  "nombre": "Charles Leclerc",
+  "escuderia": "Ferrari",
+  "nacionalidad": "Monaco",
+  "puntos": 1500
+},
+{
+  "_id": {
+    "$oid": "67395f19533f3c5ddc639588"
+  },
+  "nombre": "Sergio Perez",
+  "escuderia": "Red Bull Racing",
+  "nacionalidad": "Mexico",
+  "puntos": 1000
+},
+{
+  "_id": {
+    "$oid": "67395fbc533f3c5ddc63958b"
+  },
+  "nombre": "Sebastian Vettel",
+  "escuderia": "Aston Martin",
+  "nacionalidad": "Germany",
+  "puntos": 3100
+},
+{
+  "_id": {
+    "$oid": "67395fc6533f3c5ddc63958d"
+  },
+  "nombre": "Valtteri Bottas",
+  "escuderia": "Alfa Romeo",
+  "nacionalidad": "Finland",
+  "puntos": 1700
+},
+{
+  "_id": {
+    "$oid": "67395fd0533f3c5ddc63958f"
+  },
+  "nombre": "Daniel Ricciardo",
+  "escuderia": "McLaren",
+  "nacionalidad": "Australia",
+  "puntos": 1400
+},
+{
+  "_id": {
+    "$oid": "67395fdb533f3c5ddc639591"
+  },
+  "nombre": "Fernando Alonso",
+  "escuderia": "Alpine",
+  "nacionalidad": "Spain",
+  "puntos": 1800
+},
+{
+  "_id": {
+    "$oid": "67395fe5533f3c5ddc639593"
+  },
+  "nombre": "Lando Norris",
+  "escuderia": "McLaren",
+  "nacionalidad": "United Kingdom",
+  "puntos": 500
+},
+{
+  "_id": {
+    "$oid": "67395fee533f3c5ddc639595"
+  },
+  "nombre": "Pierre Gasly",
+  "escuderia": "Alpine",
+  "nacionalidad": "France",
+  "puntos": 450
+},
+{
+  "_id": {
+    "$oid": "67395ff6533f3c5ddc639597"
+  },
+  "nombre": "Kimi Raikkonen",
+  "escuderia": "Alfa Romeo",
+  "nacionalidad": "Finland",
+  "puntos": 2000
+},
+{
+  "_id": {
+    "$oid": "67396003533f3c5ddc639599"
+  },
+  "nombre": "Esteban Ocon",
+  "escuderia": "Alpine",
+  "nacionalidad": "France",
+  "puntos": 550
+},
+{
+  "_id": {
+    "$oid": "67396010533f3c5ddc63959b"
+  },
+  "nombre": "George Russell",
+  "escuderia": "Mercedes",
+  "nacionalidad": "United Kingdom",
+  "puntos": 300
+},
+{
+  "_id": {
+    "$oid": "6739601b533f3c5ddc63959d"
+  },
+  "nombre": "Nicholas Latifi",
+  "escuderia": "Williams",
+  "nacionalidad": "Canada",
+  "puntos": 0
+},
+{
+  "_id": {
+    "$oid": "67396053533f3c5ddc63959f"
+  },
+  "nombre": "Lance Stroll",
+  "escuderia": "Aston Martin",
+  "nacionalidad": "Canada",
+  "puntos": 200
+},
+{
+  "_id": {
+    "$oid": "6739605c533f3c5ddc6395a1"
+  },
+  "nombre": "Mick Schumacher",
+  "escuderia": "Haas",
+  "nacionalidad": "Germany",
+  "puntos": 0
+},
+{
+  "_id": {
+    "$oid": "67396066533f3c5ddc6395a3"
+  },
+  "nombre": "Robert Kubica",
+  "escuderia": "Alfa Romeo",
+  "nacionalidad": "Poland",
+  "puntos": 1000
+},
+{
+  "_id": {
+    "$oid": "6739606e533f3c5ddc6395a5"
+  },
+  "nombre": "Yuki Tsunoda",
+  "escuderia": "AlphaTauri",
+  "nacionalidad": "Japan",
+  "puntos": 150
+},
+{
+  "_id": {
+    "$oid": "67396078533f3c5ddc6395a7"
+  },
+  "nombre": "Kvyat Daniil",
+  "escuderia": "AlphaTauri",
+  "nacionalidad": "Russia",
+  "puntos": 500
+},
+{
+  "_id": {
+    "$oid": "67396080533f3c5ddc6395a9"
+  },
+  "nombre": "Zhou Guanyu",
+  "escuderia": "Alfa Romeo",
+  "nacionalidad": "China",
+  "puntos": 100
+}]
